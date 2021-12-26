@@ -3,9 +3,9 @@
 
 ![Screenshot](screenshots/screenshot.png)
 
+## API
+https://covid19.mathdro.id/api
 
-API used: https://covid19.mathdro.id/api
-
-Setup:
+## Setup
 - ```npm install```
 - ```npm start```
